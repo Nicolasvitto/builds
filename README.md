@@ -1,4 +1,4 @@
-Aqui está o README sugerido para os dois códigos que você enviou:
+
 
 ---
 
@@ -38,4 +38,4 @@ Ao carregar a página, o usuário verá o vídeo principal da build de Vordrai. 
 
 ---
 
-Esse README fornece uma visão geral clara do projeto, explica suas funcionalidades, e orienta como utilizar e personalizar a página web.
+
